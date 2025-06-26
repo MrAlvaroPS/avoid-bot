@@ -1,0 +1,1222 @@
+[
+  {
+    "id": "poll_678013152729759769_1750950749669",
+    "question": "patata2",
+    "description": "",
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "votes": {
+      "si": [],
+      "no": [
+        {
+          "id": "458702837342535682",
+          "username": "hidelfon",
+          "displayName": "Hidelfon/Vordack"
+        },
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ],
+      "tal_vez": []
+    },
+    "createdAt": "2025-06-26T15:12:29.669Z",
+    "channelId": "1387812729556832428",
+    "messageId": "1387812774792663201"
+  },
+  {
+    "id": "poll_678013152729759769_1750950797796",
+    "question": "patata3",
+    "description": "",
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "votes": {
+      "si": [],
+      "no": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ],
+      "tal_vez": []
+    },
+    "createdAt": "2025-06-26T15:13:17.796Z",
+    "channelId": "1387812729556832428",
+    "messageId": "1387812976588750908"
+  },
+  {
+    "id": "poll_678013152729759769_1750951107278",
+    "question": "Reroll patata",
+    "description": "la patata de la s3",
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": "arcano",
+      "option1": "patato",
+      "option2": "petete",
+      "option3": "pototo",
+      "option4": "patata"
+    },
+    "votes": {
+      "option0": [],
+      "option1": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ],
+      "option2": [],
+      "option3": [],
+      "option4": []
+    },
+    "createdAt": "2025-06-26T15:18:27.278Z",
+    "channelId": "1387812729556832428",
+    "messageId": "1387814274046492795"
+  },
+  {
+    "id": "poll_678013152729759769_1750951203760",
+    "question": "reroll potato",
+    "description": "potato s3",
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": "a",
+      "option1": "b",
+      "option2": "c",
+      "option3": "d",
+      "option4": "e",
+      "option5": "arcana",
+      "option6": "orcono",
+      "option7": "⚔️​",
+      "option8": "🤺​",
+      "option9": ":brewmaster:"
+    },
+    "votes": {
+      "option0": [],
+      "option1": [],
+      "option2": [],
+      "option3": [],
+      "option4": [],
+      "option5": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ],
+      "option6": [],
+      "option7": [],
+      "option8": [],
+      "option9": []
+    },
+    "createdAt": "2025-06-26T15:20:03.760Z",
+    "channelId": "1387812729556832428",
+    "messageId": "1387814678939570317"
+  },
+  {
+    "id": "poll_678013152729759769_1750951451027",
+    "question": "reroll s3",
+    "description": "rererere",
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": "a",
+      "option1": "b",
+      "option2": "c",
+      "option3": "d",
+      "option4": ":brewmaster:"
+    },
+    "votes": {
+      "option0": [],
+      "option1": [],
+      "option2": [],
+      "option3": [],
+      "option4": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ]
+    },
+    "createdAt": "2025-06-26T15:24:11.027Z",
+    "channelId": "1387812729556832428",
+    "messageId": "1387815716362653769"
+  },
+  {
+    "id": "poll_678013152729759769_1750951823034",
+    "question": "rerroll s3",
+    "description": "rererere",
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": "arcana",
+      "option1": ":destro: warlock",
+      "option2": ":brewmaster:",
+      "option3": "patata"
+    },
+    "votes": {
+      "option0": [],
+      "option1": [],
+      "option2": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ],
+      "option3": []
+    },
+    "createdAt": "2025-06-26T15:30:23.034Z",
+    "channelId": "1387812729556832428",
+    "messageId": "1387817276635611326"
+  },
+  {
+    "id": "poll_678013152729759769_1750952127878",
+    "question": "reroll s3",
+    "description": "reroll descripcion de patata",
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": "patata",
+      "option1": "b",
+      "option2": ":brewmaster: Monkito",
+      "option3": "c"
+    },
+    "votes": {
+      "option0": [],
+      "option1": [],
+      "option2": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ],
+      "option3": []
+    },
+    "createdAt": "2025-06-26T15:35:27.878Z",
+    "expiresAt": "2025-06-28T15:35:27.878Z",
+    "timeLimitDays": 2,
+    "channelId": "1387812729556832428",
+    "messageId": "1387818555474575413"
+  },
+  {
+    "id": "poll_678013152729759769_1750952229570",
+    "question": "reroll",
+    "description": "asd",
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": ":brewmaster: Tank",
+      "option1": "🔥 DPS"
+    },
+    "votes": {
+      "option0": [],
+      "option1": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ]
+    },
+    "createdAt": "2025-06-26T15:37:09.570Z",
+    "expiresAt": "2025-06-28T15:37:09.569Z",
+    "timeLimitDays": 2,
+    "channelId": "1387812729556832428",
+    "messageId": "1387818981536301229"
+  },
+  {
+    "id": "poll_678013152729759769_1750952404074",
+    "question": "asd",
+    "description": "asdasd",
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": ":brewmaster:",
+      "option1": "<:brewmaster:>",
+      "option2": "patata"
+    },
+    "votes": {
+      "option0": [],
+      "option1": [],
+      "option2": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ]
+    },
+    "createdAt": "2025-06-26T15:40:04.074Z",
+    "expiresAt": "2025-06-28T15:40:04.074Z",
+    "timeLimitDays": 2,
+    "channelId": "1387812729556832428",
+    "messageId": "1387819713962315917"
+  },
+  {
+    "id": "poll_678013152729759769_1750952496210",
+    "question": "asd",
+    "description": "asd",
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": ":brewmaster:",
+      "option1": ":brewmaster:"
+    },
+    "votes": {
+      "option0": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ],
+      "option1": [
+        {
+          "id": "533729430347186206",
+          "username": ".hectortm",
+          "displayName": "Hector - Grondrel"
+        }
+      ]
+    },
+    "createdAt": "2025-06-26T15:41:36.210Z",
+    "expiresAt": "2025-06-28T15:41:36.210Z",
+    "timeLimitDays": 2,
+    "channelId": "1387812729556832428",
+    "messageId": "1387820100295331870"
+  },
+  {
+    "id": "poll_678013152729759769_1750952883343",
+    "question": "asdasd",
+    "description": "ssss",
+    "sections": {
+      "TANK": [
+        "patata",
+        ":brewmaster: monje"
+      ],
+      "healer": [
+        "pototo",
+        ":holypriest: yeah"
+      ]
+    },
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": "patata",
+      "option1": ":brewmaster: monje",
+      "option2": "pototo",
+      "option3": ":holypriest: yeah"
+    },
+    "votes": {
+      "option0": [],
+      "option1": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ],
+      "option2": [],
+      "option3": []
+    },
+    "createdAt": "2025-06-26T15:48:03.343Z",
+    "expiresAt": "2025-06-28T15:48:03.342Z",
+    "timeLimitDays": 2,
+    "channelId": "1387812729556832428",
+    "messageId": "1387821723965198447"
+  },
+  {
+    "id": "poll_678013152729759769_1750953461755",
+    "question": "asdasd",
+    "description": "asd",
+    "sections": {
+      ":tank:Tanks": [
+        ":brewmaster: Monk",
+        "Warrior"
+      ],
+      ":heal:Healer": [
+        ":restoshaman: Chaman",
+        ":priestholy: Sacerdote"
+      ],
+      ":dps:DPS": [
+        ":retripala: Paladin",
+        "rogué"
+      ]
+    },
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": ":brewmaster: Monk",
+      "option1": "Warrior",
+      "option2": ":restoshaman: Chaman",
+      "option3": ":priestholy: Sacerdote",
+      "option4": ":retripala: Paladin",
+      "option5": "rogué"
+    },
+    "votes": {
+      "option0": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ],
+      "option1": [],
+      "option2": [],
+      "option3": [],
+      "option4": [],
+      "option5": []
+    },
+    "createdAt": "2025-06-26T15:57:41.755Z",
+    "expiresAt": "2025-06-28T15:57:41.755Z",
+    "timeLimitDays": 2,
+    "channelId": "1387812729556832428",
+    "messageId": "1387824150164537455"
+  },
+  {
+    "id": "poll_678013152729759769_1750953507848",
+    "question": "asdasd",
+    "description": "asdasd",
+    "sections": {
+      ":tank:Tanks": [
+        ":brewmaster: Monk",
+        "Warrior"
+      ],
+      ":heal:Healer": [
+        ":restoshaman: Chaman",
+        ":priestholy: Sacerdote"
+      ],
+      ":dps:DPS": [
+        ":retripala: Paladin",
+        "rogué"
+      ]
+    },
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": ":brewmaster: Monk",
+      "option1": "Warrior",
+      "option2": ":restoshaman: Chaman",
+      "option3": ":priestholy: Sacerdote",
+      "option4": ":retripala: Paladin",
+      "option5": "rogué"
+    },
+    "votes": {
+      "option0": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ],
+      "option1": [],
+      "option2": [],
+      "option3": [],
+      "option4": [],
+      "option5": []
+    },
+    "createdAt": "2025-06-26T15:58:27.848Z",
+    "expiresAt": "2025-06-28T15:58:27.848Z",
+    "timeLimitDays": 2,
+    "channelId": "1387812729556832428",
+    "messageId": "1387824343328751757"
+  },
+  {
+    "id": "poll_678013152729759769_1750954103079",
+    "question": "asdasd",
+    "description": "asdasdasd",
+    "sections": {
+      ":tank:Tanks": [
+        ":brewmaster: Monk",
+        "Warrior"
+      ],
+      ":heal:Healer": [
+        ":restoshaman: Chaman",
+        ":priestholy: Sacerdote"
+      ],
+      ":dps:DPS": [
+        ":retripala: Paladin",
+        "rogué"
+      ]
+    },
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": ":brewmaster: Monk",
+      "option1": "Warrior",
+      "option2": ":restoshaman: Chaman",
+      "option3": ":priestholy: Sacerdote",
+      "option4": ":retripala: Paladin",
+      "option5": "rogué"
+    },
+    "votes": {
+      "option0": [],
+      "option1": [],
+      "option2": [],
+      "option3": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ],
+      "option4": [
+        {
+          "id": "458702837342535682",
+          "username": "hidelfon",
+          "displayName": "Hidelfon/Vordack"
+        }
+      ],
+      "option5": []
+    },
+    "createdAt": "2025-06-26T16:08:23.079Z",
+    "expiresAt": "2025-06-28T16:08:23.078Z",
+    "timeLimitDays": 2,
+    "channelId": "1387812729556832428",
+    "messageId": "1387826839900127334"
+  },
+  {
+    "id": "poll_678013152729759769_1750954467857",
+    "question": "ssssssssssssss",
+    "description": "asd",
+    "sections": {
+      ":tank:Tanks": [
+        ":brewmaster: Monk",
+        "Warrior"
+      ],
+      ":heal:Healer": [
+        ":restoshaman: Chaman",
+        ":priestholy: Sacerdote"
+      ],
+      ":dps:DPS": [
+        ":retripala: Paladin",
+        "rogué"
+      ]
+    },
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": ":brewmaster: Monk",
+      "option1": "Warrior",
+      "option2": ":restoshaman: Chaman",
+      "option3": ":priestholy: Sacerdote",
+      "option4": ":retripala: Paladin",
+      "option5": "rogué"
+    },
+    "votes": {
+      "option0": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ],
+      "option1": [],
+      "option2": [],
+      "option3": [],
+      "option4": [],
+      "option5": []
+    },
+    "createdAt": "2025-06-26T16:14:27.857Z",
+    "expiresAt": "2025-06-28T16:14:27.857Z",
+    "timeLimitDays": 2,
+    "channelId": "1387812729556832428",
+    "messageId": "1387828369932161145",
+    "customVotingRoles": [
+      "oficial",
+      "miembro"
+    ]
+  },
+  {
+    "id": "poll_678013152729759769_1750954735983",
+    "question": "Rerroll s3",
+    "description": "",
+    "sections": {
+      ":tank:Tanks": [
+        ":brewmaster: Monk",
+        "Warrior"
+      ],
+      ":heal:Healer": [
+        ":restoshaman: Chaman",
+        ":priestholy: Sacerdote"
+      ],
+      ":dps:DPS": [
+        ":retripala: Paladin",
+        "rogué"
+      ]
+    },
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": ":brewmaster: Monk",
+      "option1": "Warrior",
+      "option2": ":restoshaman: Chaman",
+      "option3": ":priestholy: Sacerdote",
+      "option4": ":retripala: Paladin",
+      "option5": "rogué"
+    },
+    "votes": {
+      "option0": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        },
+        {
+          "id": "533729430347186206",
+          "username": ".hectortm",
+          "displayName": "Hector - Grondrel"
+        },
+        {
+          "id": "458702837342535682",
+          "username": "hidelfon",
+          "displayName": "Hidelfon/Vordack"
+        }
+      ],
+      "option1": [],
+      "option2": [],
+      "option3": [],
+      "option4": [],
+      "option5": []
+    },
+    "createdAt": "2025-06-26T16:18:55.983Z",
+    "expiresAt": "2025-06-28T16:18:55.983Z",
+    "timeLimitDays": 2,
+    "channelId": "1387812729556832428",
+    "messageId": "1387829499047055390",
+    "customVotingRoles": [
+      "oficial"
+    ]
+  },
+  {
+    "id": "poll_678013152729759769_1750961542926",
+    "question": "asd",
+    "description": "asd",
+    "sections": {
+      ":tank:Tanks": [
+        ":brewmaster: Monk",
+        "Warrior"
+      ],
+      ":heal:Healer": [
+        ":restoshaman: Chaman",
+        ":priestholy: Sacerdote"
+      ],
+      ":dps:DPS": [
+        ":retripala: Paladin",
+        "rogué"
+      ]
+    },
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": ":brewmaster: Monk",
+      "option1": "Warrior",
+      "option2": ":restoshaman: Chaman",
+      "option3": ":priestholy: Sacerdote",
+      "option4": ":retripala: Paladin",
+      "option5": "rogué"
+    },
+    "votes": {
+      "option0": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ],
+      "option1": [],
+      "option2": [],
+      "option3": [],
+      "option4": [],
+      "option5": []
+    },
+    "createdAt": "2025-06-26T18:12:22.926Z",
+    "expiresAt": "2025-06-28T18:12:22.925Z",
+    "timeLimitDays": 2,
+    "channelId": "1387812729556832428",
+    "messageId": "1387858044960112851",
+    "customVotingRoles": []
+  },
+  {
+    "id": "poll_678013152729759769_1750961886677",
+    "question": "a",
+    "description": "asd",
+    "sections": {
+      ":tank:Tanks": [
+        ":brewmaster: Monk",
+        "Warrior"
+      ],
+      ":heal:Healer": [
+        ":restoshaman: Chaman",
+        ":priestholy: Sacerdote"
+      ],
+      ":dps:DPS": [
+        ":retripala: Paladin",
+        "rogué"
+      ]
+    },
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": ":brewmaster: Monk",
+      "option1": "Warrior",
+      "option2": ":restoshaman: Chaman",
+      "option3": ":priestholy: Sacerdote",
+      "option4": ":retripala: Paladin",
+      "option5": "rogué"
+    },
+    "votes": {
+      "option0": [],
+      "option1": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ],
+      "option2": [],
+      "option3": [],
+      "option4": [],
+      "option5": []
+    },
+    "createdAt": "2025-06-26T18:18:06.677Z",
+    "expiresAt": "2025-06-28T18:18:06.677Z",
+    "timeLimitDays": 2,
+    "channelId": "1387812729556832428",
+    "messageId": "1387859486575825033",
+    "customVotingRoles": []
+  },
+  {
+    "id": "poll_678013152729759769_1750961979678",
+    "question": "asd",
+    "description": "asd",
+    "sections": {
+      ":tank:Tanks": [
+        ":brewmaster: Monk",
+        "Warrior"
+      ],
+      ":heal:Healer": [
+        ":restoshaman: Chaman",
+        ":priestholy: Sacerdote"
+      ],
+      ":dps:DPS": [
+        ":retripala: Paladin",
+        "rogué"
+      ]
+    },
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": ":brewmaster: Monk",
+      "option1": "Warrior",
+      "option2": ":restoshaman: Chaman",
+      "option3": ":priestholy: Sacerdote",
+      "option4": ":retripala: Paladin",
+      "option5": "rogué"
+    },
+    "votes": {
+      "option0": [],
+      "option1": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ],
+      "option2": [],
+      "option3": [],
+      "option4": [],
+      "option5": []
+    },
+    "createdAt": "2025-06-26T18:19:39.678Z",
+    "expiresAt": "2025-06-28T18:19:39.677Z",
+    "timeLimitDays": 2,
+    "channelId": "1387812729556832428",
+    "messageId": "1387859876473995429",
+    "customVotingRoles": []
+  },
+  {
+    "id": "poll_678013152729759769_1750962119299",
+    "question": "asd",
+    "description": "asd",
+    "sections": {
+      ":tank:Tanks": [
+        ":brewmaster: Monk",
+        "Warrior"
+      ],
+      ":heal:Healer": [
+        ":restoshaman: Chaman",
+        ":priestholy: Sacerdote"
+      ],
+      ":dps:DPS": [
+        ":retripala: Paladin",
+        "rogué"
+      ]
+    },
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": ":brewmaster: Monk",
+      "option1": "Warrior",
+      "option2": ":restoshaman: Chaman",
+      "option3": ":priestholy: Sacerdote",
+      "option4": ":retripala: Paladin",
+      "option5": "rogué"
+    },
+    "votes": {
+      "option0": [
+        {
+          "id": "458702837342535682",
+          "username": "hidelfon",
+          "displayName": "Hidelfon/Vordack"
+        }
+      ],
+      "option1": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ],
+      "option2": [],
+      "option3": [],
+      "option4": [],
+      "option5": []
+    },
+    "createdAt": "2025-06-26T18:21:59.299Z",
+    "expiresAt": "2025-06-28T18:21:59.299Z",
+    "timeLimitDays": 2,
+    "channelId": "1387812729556832428",
+    "messageId": "1387860462493761687",
+    "customVotingRoles": []
+  },
+  {
+    "id": "poll_678013152729759769_1750962507559",
+    "question": "as",
+    "description": "asd",
+    "sections": {
+      ":tank:Tanks": [
+        ":brewmaster: Monk",
+        "Warrior"
+      ],
+      ":heal:Healer": [
+        ":restoshaman: Chaman",
+        ":priestholy: Sacerdote"
+      ],
+      ":dps:DPS": [
+        ":retripala: Paladin",
+        "rogué"
+      ]
+    },
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": ":brewmaster: Monk",
+      "option1": "Warrior",
+      "option2": ":restoshaman: Chaman",
+      "option3": ":priestholy: Sacerdote",
+      "option4": ":retripala: Paladin",
+      "option5": "rogué"
+    },
+    "votes": {
+      "option0": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ],
+      "option1": [],
+      "option2": [],
+      "option3": [],
+      "option4": [],
+      "option5": []
+    },
+    "createdAt": "2025-06-26T18:28:27.559Z",
+    "expiresAt": "2025-06-28T18:28:27.559Z",
+    "timeLimitDays": 2,
+    "channelId": "1387812729556832428",
+    "messageId": "1387862090857054249",
+    "customVotingRoles": []
+  },
+  {
+    "id": "poll_678013152729759769_1750962618659",
+    "question": "asd",
+    "description": "asd",
+    "sections": {
+      ":tank:Tanks": [
+        ":brewmaster: Monk",
+        "Warrior"
+      ],
+      ":heal:Healer": [
+        ":restoshaman: Chaman",
+        ":priestholy: Sacerdote"
+      ],
+      ":dps:DPS": [
+        ":retripala: Paladin",
+        "rogué"
+      ]
+    },
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": ":brewmaster: Monk",
+      "option1": "Warrior",
+      "option2": ":restoshaman: Chaman",
+      "option3": ":priestholy: Sacerdote",
+      "option4": ":retripala: Paladin",
+      "option5": "rogué"
+    },
+    "votes": {
+      "option0": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ],
+      "option1": [],
+      "option2": [],
+      "option3": [],
+      "option4": [],
+      "option5": []
+    },
+    "createdAt": "2025-06-26T18:30:18.659Z",
+    "expiresAt": "2025-06-28T18:30:18.659Z",
+    "timeLimitDays": 2,
+    "channelId": "1387812729556832428",
+    "messageId": "1387862556902686841",
+    "customVotingRoles": []
+  },
+  {
+    "id": "poll_678013152729759769_1750962723653",
+    "question": "asd",
+    "description": "a",
+    "sections": {
+      ":tank:Tanks": [
+        ":brewmaster: Monk",
+        "Warrior"
+      ],
+      ":heal:Healer": [
+        ":restoshaman: Chaman",
+        ":priestholy: Sacerdote"
+      ],
+      ":dps:DPS": [
+        ":retripala: Paladin",
+        "rogué"
+      ]
+    },
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": ":brewmaster: Monk",
+      "option1": "Warrior",
+      "option2": ":restoshaman: Chaman",
+      "option3": ":priestholy: Sacerdote",
+      "option4": ":retripala: Paladin",
+      "option5": "rogué"
+    },
+    "votes": {
+      "option0": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ],
+      "option1": [],
+      "option2": [],
+      "option3": [],
+      "option4": [],
+      "option5": []
+    },
+    "createdAt": "2025-06-26T18:32:03.653Z",
+    "expiresAt": "2025-06-28T18:32:03.653Z",
+    "timeLimitDays": 2,
+    "channelId": "1387812729556832428",
+    "messageId": "1387862997166198876",
+    "customVotingRoles": []
+  },
+  {
+    "id": "poll_678013152729759769_1750962747927",
+    "question": "asd",
+    "description": "asd",
+    "sections": {
+      ":tank:Tanks": [
+        ":brewmaster: Monk",
+        "Warrior"
+      ],
+      ":heal:Healer": [
+        ":restoshaman: Chaman",
+        ":priestholy: Sacerdote"
+      ],
+      ":dps:DPS": [
+        ":retripala: Paladin",
+        "rogué"
+      ]
+    },
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": ":brewmaster: Monk",
+      "option1": "Warrior",
+      "option2": ":restoshaman: Chaman",
+      "option3": ":priestholy: Sacerdote",
+      "option4": ":retripala: Paladin",
+      "option5": "rogué"
+    },
+    "votes": {
+      "option0": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ],
+      "option1": [],
+      "option2": [],
+      "option3": [],
+      "option4": [],
+      "option5": []
+    },
+    "createdAt": "2025-06-26T18:32:27.927Z",
+    "expiresAt": "2025-06-28T18:32:27.927Z",
+    "timeLimitDays": 2,
+    "channelId": "1387812729556832428",
+    "messageId": "1387863098999963920",
+    "customVotingRoles": []
+  },
+  {
+    "id": "poll_678013152729759769_1750962841547",
+    "question": "asd",
+    "description": "asd",
+    "sections": {
+      ":tank:Tanks": [
+        ":brewmaster: Monk",
+        "Warrior"
+      ],
+      ":heal:Healer": [
+        ":restoshaman: Chaman",
+        ":priestholy: Sacerdote"
+      ],
+      ":dps:DPS": [
+        ":retripala: Paladin",
+        "rogué"
+      ]
+    },
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": ":brewmaster: Monk",
+      "option1": "Warrior",
+      "option2": ":restoshaman: Chaman",
+      "option3": ":priestholy: Sacerdote",
+      "option4": ":retripala: Paladin",
+      "option5": "rogué"
+    },
+    "votes": {
+      "option0": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ],
+      "option1": [],
+      "option2": [],
+      "option3": [],
+      "option4": [],
+      "option5": []
+    },
+    "createdAt": "2025-06-26T18:34:01.547Z",
+    "expiresAt": "2025-06-28T18:34:01.547Z",
+    "timeLimitDays": 2,
+    "channelId": "1387812729556832428",
+    "messageId": "1387863491905589330",
+    "customVotingRoles": []
+  },
+  {
+    "id": "poll_678013152729759769_1750963183126",
+    "question": "asd",
+    "description": "",
+    "sections": {
+      ":tank:Tanks": [
+        ":brewmaster: Monk",
+        "Warrior"
+      ],
+      ":heal:Healer": [
+        ":restoshaman: Chaman",
+        ":priestholy: Sacerdote"
+      ],
+      ":dps:DPS": [
+        ":retripala: Paladin",
+        "rogué"
+      ]
+    },
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": ":brewmaster: Monk",
+      "option1": "Warrior",
+      "option2": ":restoshaman: Chaman",
+      "option3": ":priestholy: Sacerdote",
+      "option4": ":retripala: Paladin",
+      "option5": "rogué"
+    },
+    "votes": {
+      "option0": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ],
+      "option1": [],
+      "option2": [],
+      "option3": [],
+      "option4": [],
+      "option5": []
+    },
+    "createdAt": "2025-06-26T18:39:43.126Z",
+    "expiresAt": "2025-06-28T18:39:43.125Z",
+    "timeLimitDays": 2,
+    "channelId": "1387812729556832428",
+    "messageId": "1387864924583231578",
+    "customVotingRoles": []
+  },
+  {
+    "id": "poll_678013152729759769_1750963402830",
+    "question": "asd",
+    "description": "",
+    "sections": {
+      ":tank:Tanks": [
+        ":brewmaster: Monk",
+        "Warrior"
+      ],
+      ":heal:Healer": [
+        ":restoshaman: Chaman",
+        ":priestholy: Sacerdote"
+      ],
+      ":dps:DPS": [
+        ":retripala: Paladin",
+        "rogué"
+      ]
+    },
+    "author": {
+      "id": "678013152729759769",
+      "username": "_onie.",
+      "displayName": "Onie 🍃"
+    },
+    "options": {
+      "option0": ":brewmaster: Monk",
+      "option1": "Warrior",
+      "option2": ":restoshaman: Chaman",
+      "option3": ":priestholy: Sacerdote",
+      "option4": ":retripala: Paladin",
+      "option5": "rogué"
+    },
+    "votes": {
+      "option0": [
+        {
+          "id": "678013152729759769",
+          "username": "_onie.",
+          "displayName": "Onie 🍃"
+        }
+      ],
+      "option1": [],
+      "option2": [],
+      "option3": [],
+      "option4": [],
+      "option5": []
+    },
+    "createdAt": "2025-06-26T18:43:22.830Z",
+    "expiresAt": "2025-06-28T18:43:22.830Z",
+    "timeLimitDays": 2,
+    "channelId": "1387812729556832428",
+    "messageId": "1387865845988065503",
+    "customVotingRoles": []
+  }
+]
